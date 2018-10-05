@@ -1,0 +1,23 @@
+{
+  "name": "ansible-dummy-package",
+  "version": "1.0.0",
+  "description": "Dummy npm package required by Ansible npm module tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilro/ansible-dummy-package.git"
+  },
+  "keywords": [
+    "tests",
+    "ansible"
+  ],
+  "author": "Jill Royer <perso@guilro.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilro/ansible-dummy-package/issues"
+  },
+  "homepage": "https://github.com/guilro/ansible-dummy-package#readme"
+}
