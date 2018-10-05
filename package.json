@@ -1,6 +1,6 @@
 {
   "name": "ansible-dummy-package",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Dummy npm package required by Ansible npm module tests.",
   "main": "index.js",
   "scripts": {
